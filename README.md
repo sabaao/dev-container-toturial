@@ -37,6 +37,7 @@ ps：第一次因為要build image，會花比較多時間
 ![open a broswer](images/open_broswer.png)
 
 若要退出dev container的話，則可以點左下角的綠色圖示
+
 ![dev container menu](images/dev_container_menu.png)
 
 選擇`close remote connection`
