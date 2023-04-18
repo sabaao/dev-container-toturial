@@ -25,8 +25,11 @@
 - local開發環境建立自動化​
 - 不同的專案可以相互隔離​
 - 可以跟本機環境相互隔離
-# Dev container優點
+# Dev container
+在docker container內建置本機開發/測試環境，並且source code透過volume跟本機連動。
+
 ![dev container](https://code.visualstudio.com/assets/docs/devcontainers/containers/architecture-containers.png)
+
 使用 VS Code Dev Container 有以下優點：
 
 1. 一致的開發環境：Dev Container 可以在容器中提供與主機相同的開發環境，包括所需的程式庫、工具和環境變數。這樣可以確保團隊成員使用的開發環境都是一致的，從而避免因為開發環境的不同而引起的問題。
